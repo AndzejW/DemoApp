@@ -21,8 +21,8 @@ public class DetailsActivity extends AppCompatActivity {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             mainToolbar.setElevation(6f);
         }
+        setSupportActionBar(mainToolbar);
         if(getSupportActionBar() != null) {
-            setSupportActionBar(mainToolbar);
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }
