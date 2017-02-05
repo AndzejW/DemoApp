@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="string_title">Title</string>
+    <string name="string_description">Description</string>
+    <string name="string_language">Language</string>
+    <string name="string_watchers">Watchers</string>
+    <string name="string_forks">Forks</string>
+    <string name="string_lastupdate">Updated at: </string>
+
+    <string name="detail_title">Name: %1$s</string>
+    <string name="detail_description">Description: %1$s</string>
+    <string name="detail_language">Language: %1$s</string>
+    <string name="detail_watchers">Watchers count: %1$d</string>
+    <string name="detail_forks">Forks count: %1$d</string>
+    <string name="detail_lastupdate">LastUpdate: %1$s</string>
+</resources>
